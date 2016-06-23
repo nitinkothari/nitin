@@ -1,2 +1,6 @@
 boom
+<<<<<<< HEAD
 third line
+=======
+second line
+>>>>>>> 556b754d6ac6c51407adc3a8af1b89ebbc4d818b
